@@ -41,11 +41,12 @@
 - 📫 How to reach me **shivanshuchobey5998@gmail.com**
 
 - 📄 Know about my experiences
-[https://drive.google.com/drive/u/1/folders/1dtOwv6BlNy47sVC2hY2c0_6vZkLCBP29](https://drive.google.com/drive/u/1/folders/1dtOwv6BlNy47sVC2hY2c0_6vZkLCBP29)
+  [https://drive.google.com/drive/u/1/folders/1dtOwv6BlNy47sVC2hY2c0_6vZkLCBP29](https://drive.google.com/drive/u/1/folders/1dtOwv6BlNy47sVC2hY2c0_6vZkLCBP29)
 
 - ⚡ Fun fact **😂**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -54,7 +55,7 @@
     <a href="https://twitter.com/@chobeyshivanshu" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="@chobeyshivanshu" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/shivanshu chobey" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/shivanshu5998/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="shivanshu chobey" height="30" width="40" /></a>
     <a href="https://codesandbox.com/shivanshuchobey5998" target="blank"><img align="center"
