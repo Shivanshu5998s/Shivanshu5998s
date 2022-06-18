@@ -17,9 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu5998s&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu5998s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshu5998s" alt="shivanshu5998s" /></a> </p>
-
-{/* <p align="left"> <a href="https://twitter.com/@chobeyshivanshu" target="blank"><img src="https://img.shields.io/twitter/follow/@chobeyshivanshu?logo=twitter&style=for-the-badge" alt="@chobeyshivanshu" /></a> </p> */}
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshu5998s" alt="shivanshu5998s" /></a> </p>
 
 - 🔭 I’m currently working on [Nordstrom.com](https://github.com/Shivanshu5998s/Nordstrom-Website-Clone-)
 
@@ -59,9 +57,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu5998s&theme=radical)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivanshu5998s&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-{/* <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu5998s&show_icons=true&locale=en&layout=compact" alt="shivanshu5998s" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshu5998s&show_icons=true&locale=en" alt="shivanshu5998s" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu5998s&" alt="shivanshu5998s" /></p> */}
