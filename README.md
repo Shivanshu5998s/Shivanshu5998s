@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **shivanshuchobey5998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1dtOwv6BlNy47sVC2hY2c0_6vZkLCBP29](https://drive.google.com/drive/u/1/folders/1dtOwv6BlNy47sVC2hY2c0_6vZkLCBP29)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Fc_1CtApFmzsQ5tIwjbKy2PaoVevMvOk?usp=sharing](https://drive.google.com/drive/folders/1Fc_1CtApFmzsQ5tIwjbKy2PaoVevMvOk?usp=sharing)
 
 - ⚡ Fun fact **😂**
 
