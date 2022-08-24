@@ -4,15 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu5998s&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu5998s" /> </p>
 
-<div align="center" display="flex">
-    <img width="50%" src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
-    <img align="" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
-</div>
 
 <p align="center">
     <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img
             src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
+
+<div align="center" display="flex">
+    <img width="50%" src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
+    <img align="" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+</div>
 
 <h1 align="center">Hi 👋, I'm SHIVANSHU CHOBEY</h1>
 <h3 align="center">A passionate frontend developer from India  </h3>
