@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on [Nordstrom.com](https://github.com/Shivanshu5998s/Nordstrom-Website-Clone-)
 
-- 🌱 I’m currently learning **React,MERN Stack**
+- 🌱 I’m currently learning **React, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://shivanshu-chobey-portfolio-five.vercel.app/](https://shivanshu-chobey-portfolio-five.vercel.app/)
 
