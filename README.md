@@ -31,19 +31,21 @@
 
 <br>
 
+<!-- [Click](https://yourLink.netlify.app/) -->
+
 - 🔭 I’m currently working on [Nordstrom.com](https://github.com/Shivanshu5998s/Nordstrom-Website-Clone-)
 
 - 🌱 I’m currently learning **React, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://shivanshu-chobey-portfolio-five.vercel.app/](https://shivanshu-chobey-portfolio-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shivanshu-chobey-portfolio-five.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@shivanshuchobey5998](https://medium.com/@shivanshuchobey5998)
+- 📝 I regularly write articles on [Medium](https://medium.com/@shivanshuchobey5998)
 
 - 💬 Ask me about **JavaScript, Data Structure & Algorithm**
 
 - 📫 How to reach me **shivanshuchobey5998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Fc_1CtApFmzsQ5tIwjbKy2PaoVevMvOk?usp=sharing](https://drive.google.com/drive/folders/1Fc_1CtApFmzsQ5tIwjbKy2PaoVevMvOk?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Fc_1CtApFmzsQ5tIwjbKy2PaoVevMvOk?usp=sharing)
 
 - ⚡ Fun fact **😂**
 
