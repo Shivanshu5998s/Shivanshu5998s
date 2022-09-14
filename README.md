@@ -71,7 +71,10 @@
 </div>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivanshu5998s&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center">
+
 <a href="https://github.com/Shivanshu5998s"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshu5998s&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="Shivanshu5998s's GitHub stats" /></a>
+</p>
 <!-- title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000& -->
 
 <div align="center">
