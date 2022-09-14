@@ -1,9 +1,7 @@
 <!-- # Shivanshu-Chobey-README -->
-
 <!-- # Hey there :wave: -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu5998s&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu5998s" /> </p>
-
 
 <p align="center">
     <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img
@@ -88,3 +86,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+
+<h1 align="center"> Thank You ❤</h1>
+
+
