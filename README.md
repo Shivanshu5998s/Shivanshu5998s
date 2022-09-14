@@ -74,7 +74,10 @@
 <a href="https://github.com/Shivanshu5998s"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshu5998s&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="Shivanshu5998s's GitHub stats" /></a>
 <!-- title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000& -->
 
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu5998s&theme=radical)
+</div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivanshu5998s&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
