@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on [Nordstrom.com](https://github.com/Shivanshu5998s/Nordstrom-Website-Clone-)
 
-- 🌱 I’m currently learning **React, MERN Stack**
+- 🌱 I’m currently learning **JS, React, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shivanshu-chobey-portfolio-five.vercel.app/)
 
