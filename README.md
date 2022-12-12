@@ -81,6 +81,8 @@
 <!-- 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivanshu5998s&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivanshu5998s&theme=xcode)(https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rushi2784&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 😜Here's a Joke for you:
 
