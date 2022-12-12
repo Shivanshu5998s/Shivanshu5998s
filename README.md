@@ -68,6 +68,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu5998s&theme=radical)
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivanshu5998s&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 😜Here's a Joke for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
