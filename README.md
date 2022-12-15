@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning **JS, React, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shivanshu-chobey-portfolio-five.vercel.app/)
+- 👨‍💻 All of my projects are available at <a align="center" href="https://shivanshu-chobey-portfolio-five.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shivanshuchobey5998)
 
@@ -44,7 +44,7 @@
 
 - 📫 How to reach me **shivanshuchobey5998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Fc_1CtApFmzsQ5tIwjbKy2PaoVevMvOk?usp=sharing)
+- 📄 Know about my experiences  <a align="center" href="https://drive.google.com/drive/folders/1Fc_1CtApFmzsQ5tIwjbKy2PaoVevMvOk?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=maroon&logo=tmux&logoColor=white&label=" alt="Lybrate" /></a>
 
 - ⚡ Fun fact **😂**
 
@@ -62,21 +62,6 @@
 </p> -->
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<!-- 
-<h2><i>Let's Connect</i></h2>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/shivanshu5998/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shivanshu5998/" />
-    </a>
-    <a href="https://twitter.com/@chobeyshivanshu">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/@chobeyshivanshu" />
-    </a>
-<!--     <a href="https://codesandbox.com/shivanshuchobey5998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivanshuchobey5998" height="30" width="40" /></a> -->
-    <a href="https://medium.com/@shivanshuchobey5998"><img src="https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow" height="30" width="60"  ></a>
-</p>
-<br> -->
-
 
 ## Connect with me
 <h2><i>Let's Connect</i></h2>
@@ -97,11 +82,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></p> -->
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
