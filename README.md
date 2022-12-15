@@ -62,7 +62,7 @@
 </p> -->
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-
+<!-- 
 <h2><i>Let's Connect</i></h2>
 
 <p align="left">
@@ -75,7 +75,29 @@
 <!--     <a href="https://codesandbox.com/shivanshuchobey5998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivanshuchobey5998" height="30" width="40" /></a> -->
     <a href="https://medium.com/@shivanshuchobey5998"><img src="https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow" height="30" width="60"  ></a>
 </p>
-<br>
+<br> -->
+
+
+## Connect with me
+<h2><i>Let's Connect</i></h2>
+<div align="center">
+<a href="https://github.com/Shivanshu5998s" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@ChobeyShivanshu" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@shivanshuchobey5998" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/@shivanshuchobey5998" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/shivanshu5998" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 
