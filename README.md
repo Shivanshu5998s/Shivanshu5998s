@@ -10,27 +10,21 @@
 
 <div align="center" display="flex">
     <img width="50%" src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
-<!--     <img align="" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"> -->
     <img align="" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm SHIVANSHU CHOBEY</h1>
-<h3 align="center">A passionate frontend developer from India  </h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu5998s&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu5998s" /> </p> -->
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshu5998s" alt="shivanshu5998s" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
 ## About Me
 
-<!-- <img align='right' src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="260" height='230'> -->
 ⚡Enthusiastic aspiring full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a web-developer with a reputed firm driven by technology.
 
 <br>
-
-<!-- [Click](https://yourLink.netlify.app/) -->
 
 - 🔭 I’m currently working on [Nordstrom.com](https://github.com/Shivanshu5998s/Nordstrom-Website-Clone-)
 
@@ -52,19 +46,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/@chobeyshivanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chobeyshivanshu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shivanshu5998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanshu chobey" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shivanshuchobey5998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivanshuchobey5998" height="30" width="40" /></a>
-<a href="https://medium.com/@shivanshuchobey5998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivanshuchobey5998" height="30" width="40" /></a>
-</p> -->
-
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 ## Connect with me
-<h2><i>Let's Connect</i></h2>
+
+<!-- <h2><i>Let's Connect</i></h2> -->
 <div align="center">
 <a href="https://github.com/Shivanshu5998s" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -109,20 +95,18 @@
         <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
         
 </p>
+        
 <br>
 
 <div align="center">
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shivanshu5998s&theme=neon-dark)](https://git.io/streak-stats)
 </div>
 
 <p align="center">
 <a href="https://github.com/Shivanshu5998s"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshu5998s&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="Shivanshu5998s's GitHub stats" /></a>
 </p>
-<!-- title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000& -->
-
+        
 <div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu5998s&theme=radical)
 </div>
 
