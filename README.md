@@ -99,14 +99,16 @@
 <br>
 
 <div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shivanshu5998s&theme=neon-dark)](https://git.io/streak-stats)
 </div>
 
 <p align="center">
 <a href="https://github.com/Shivanshu5998s"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshu5998s&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="Shivanshu5998s's GitHub stats" /></a>
 </p>
-        
+
 <div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu5998s&theme=radical)
 </div>
 
