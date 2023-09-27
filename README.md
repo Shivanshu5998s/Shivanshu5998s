@@ -26,15 +26,13 @@
 
 <br>
 
-- 🔭 I’m currently working on [Nordstrom.com](https://github.com/Shivanshu5998s/Nordstrom-Website-Clone-)
-
-- 🌱 I’m currently learning **JS, React, MERN Stack**
+- 🌱 I’m currently learning **jQuery, AJAX, TypeScript, Angular, & VueJS**
 
 - 👨‍💻 All of my projects are available at <a align="center" href="https://shivanshu-chobey-portfolio-five.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shivanshuchobey5998)
 
-- 💬 Ask me about **JavaScript, Data Structure & Algorithm**
+- 💬 Ask me about **Data Structure & Algorithm**
 
 - 📫 How to reach me **shivanshuchobey5998@gmail.com**
 
@@ -111,6 +109,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu5998s&theme=radical)
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivanshu5998s&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivanshu5998s&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
