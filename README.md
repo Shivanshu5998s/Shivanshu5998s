@@ -38,8 +38,6 @@
 
 - 📄 Know about my experiences  <a align="center" href="https://drive.google.com/drive/folders/1Fc_1CtApFmzsQ5tIwjbKy2PaoVevMvOk?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=maroon&logo=tmux&logoColor=white&label=" alt="Lybrate" /></a>
 
-- ⚡ Fun fact **😂**
-
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
