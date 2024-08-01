@@ -22,7 +22,7 @@
 
 ## About Me
 
-⚡Enthusiastic aspiring full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a web-developer with a reputed firm driven by technology.
+⚡With over a year of experience as a full-stack web developer specializing in the MERN stack, I have successfully built and optimized innovative websites. My passion for technology drives me to continually enhance my skills and deliver impactful solutions. I excel in collaborative environments, working effectively with diverse teams to achieve common goals. I am eager to contribute my expertise to a dynamic technology firm and grow as a web developer.
 
 <br>
 
