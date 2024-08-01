@@ -22,7 +22,7 @@
 
 ## About Me
 
-⚡With over a year of experience as a full-stack web developer specializing in the MERN stack, I have successfully built and optimized innovative websites. My passion for technology drives me to continually enhance my skills and deliver impactful solutions. I excel in collaborative environments, working effectively with diverse teams to achieve common goals. I am eager to contribute my expertise to a dynamic technology firm and grow as a web developer.
+⚡ With over a year of experience as a full-stack web developer specializing in the MERN stack, I have successfully built and optimized innovative websites. My passion for technology drives me to continually enhance my skills and deliver impactful solutions. I excel in collaborative environments, working effectively with diverse teams to achieve common goals. I am eager to contribute my expertise to a dynamic technology firm and grow as a web developer.
 
 <br>
 
