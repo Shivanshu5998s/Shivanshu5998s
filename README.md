@@ -26,7 +26,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and NESTJS**
 
 - 👨‍💻 All of my projects are available at <a align="center" href="https://shivanshu-chobey-portfolio-five.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a>
 
